@@ -1,0 +1,121 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	padding: 0;
+	margin: 0;
+}
+.tong{
+	background-color: #F3D2B8;
+	padding-bottom: 3000px;
+}
+#thtuyn{
+	margin: 40px 0 0 300px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+#hinhmot{
+	margin: 80px 0px 0px 0px;
+	z-index: 1;
+	position: absolute;
+}
+#hinhhai{
+	margin: 150px 0px 0px 0px;
+	left: 300px;
+	z-index: 2;
+	position: absolute;
+}
+#tren{
+	position: relative;
+	left: 950px;
+	top: 250px;
+	z-index: 3;
+	background-color: antiquewhite;
+	padding: 20px 50px 20px 20px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+#duoi{
+	position: relative;
+	left: 950px;
+	top: 280px;
+	z-index: 3;
+	background-color: antiquewhite;
+	padding: 20px 50px 20px 20px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+.modau{
+	float: left;
+	width: 30%;
+}
+.keben{
+	float: left;
+	width: 70%;
+	background-color: #EC9F6B;
+	padding-bottom: 700px;
+}
+#chutren{
+	position: relative;
+	top: 500px;
+	z-index: 4;
+	left: 450px;
+	margin: 0 900px 0 0;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+ul{
+	margin: 40px 0 0 400px;
+}
+li{
+	display: inline;
+	margin: 0 20px 0 100px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+#shop:hover{
+	background: #EDD1B9;
+	color: #5A2700;
+	padding: 0 10px 0 10px;
+}
+#show:hover{
+	background: #EDD1B9;
+	color: #5A2700;
+	padding: 0 10px 0 10px;
+}
+#ab:hover{
+	background: #EDD1B9;
+	color: #5A2700;
+	padding: 0 10px 0 10px;
+}
+#hire:hover{
+	background: #EDD1B9;
+	color: #5A2700;
+	padding: 0 10px 0 10px;
+}
+#nut{
+	position: relative;
+	top: 560px;
+	z-index: 4;
+	left: 450px;
+	padding: 10px 40px 10px 40px;
+	border: none;
+	background-color: #E7B58A;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 15px;
+}
+.hai{
+	position: relative;
+	top: 100px;
+	right: 100px;
+}
+.dai{
+	float: left;
+	width: 40%;
+	margin: 190px 0 0 300px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+#ngan{
+	margin-bottom: 60px;
+	text-decoration-line:underline;
+	text-decoration-color:#9C481C;
+}
+#hinhba{
+	float: right;
+	width: 40%;
+}
